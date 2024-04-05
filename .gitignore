@@ -1,0 +1,5 @@
+volumes/application/*
+!volumes/application/README.md
+
+volumes/mysql/*
+!volumes/mysql/README.md
